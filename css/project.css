@@ -1,0 +1,23 @@
+#div3 {
+        background-color: grey;
+    }
+*{
+        margin: 5px;
+        padding: 5px;
+        border: 5px;
+}
+#navHome{
+        position: fixed;
+        background-color: skyblue;
+}
+.projectName{
+        padding-top: 50px;
+}
+#projectTable{
+        padding-top: 30px;
+        max-width: 50%;
+        border-style: dashed;
+        font-weight: 100px;
+        max-width: 350px;
+}
+

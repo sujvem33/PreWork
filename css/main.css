@@ -1,0 +1,48 @@
+  h2 {
+        color: purple;
+    }
+    h3 {
+        text-transform: uppercase;
+        color: olive;
+    }
+    #SujiList {
+        color: greenyellow;
+    }
+    #Para1 {
+        color: skyblue;
+    }
+    #div1 {
+        background-color: grey;
+    }
+    .form1
+    {
+        padding: 15px 10px 15px 10px;
+        background-color: skyblue;
+        font-style: italic;
+        border-style: dotted;
+        font-weight: 100px;
+        max-width: 340px;
+    }
+    input[type=button]
+    {
+        color: black;
+        background-color: rgb(0, 200, 0);
+        padding-top: 10px;
+    }
+    .formSubmit
+    {
+        padding-left: 36px;
+    }
+    .myProjects
+    {
+        padding-bottom: 20px;
+        background-color: blue;
+        position: fixed;
+        align-content: right;
+        right: 0px;
+    }
+    .myImage{
+        position: relative;
+    }
+    
+
